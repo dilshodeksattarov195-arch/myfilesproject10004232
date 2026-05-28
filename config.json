@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartfonnect",
+        "uuid": 37563232,
+        "checksum": "9392ol"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
